@@ -5,12 +5,13 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "script --exec nodemon --watch src --ext js src/index.js"
+    "dev": "nodemon  src/index.js"
   },
   "author": "bunny",
   "license": "ISC",
   "dependencies": {
     "D": "^1.0.0",
-    "nodemon": "^3.1.10"
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
   }
 }
