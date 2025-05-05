@@ -1,3 +1,5 @@
 /nodemodules
 /.vscode
 
+/.DS_Store
+/.idea
